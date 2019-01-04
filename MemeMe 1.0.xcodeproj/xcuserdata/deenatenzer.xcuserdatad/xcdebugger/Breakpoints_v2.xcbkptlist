@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemeMe 1.0/ViewController.swift"
+            timestampString = "568259412.460075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemeMe 1.0/ViewController.swift"
+            timestampString = "568259412.469679"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemeMe 1.0/ViewController.swift"
+            timestampString = "568259412.470268"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "pickAnImageFromCamera(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemeMe 1.0/ViewController.swift"
+            timestampString = "568259412.470804"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "pressedCancel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemeMe 1.0/ViewController.swift"
+            timestampString = "568259412.4712861"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "shareMeme(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemeMe 1.0/ViewController.swift"
+            timestampString = "568259412.471784"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemeMe 1.0/MemeCollectionViewCell.swift"
+            timestampString = "537756054.4039741"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "MemeCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewCell.memeLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewCell.swift"
+                  timestampString = "537756054.417942"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewCell.memeLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewCell.swift"
+                  timestampString = "537756054.422729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewCell.init (frame : __C.CGRect) -&gt; MemeMe_1_0.MemeCollectionViewCell"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewCell.swift"
+                  timestampString = "537756054.4251111"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MemeMe_1_0.MemeCollectionViewCell&gt;"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewCell.swift"
+                  timestampString = "537756054.42829"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemeMe 1.0/MemeCollectionViewController.swift"
+            timestampString = "537757468.651564"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MemeCollectionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewController.__deallocating_deinit"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewController.swift"
+                  timestampString = "537757468.674521"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewController.init (collectionViewLayout : __ObjC.UICollectionViewLayout) -&gt; MemeMe_1_0.MemeCollectionViewController"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewController.swift"
+                  timestampString = "537757468.678777"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewController.__allocating_init (collectionViewLayout : __ObjC.UICollectionViewLayout) -&gt; MemeMe_1_0.MemeCollectionViewController"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewController.swift"
+                  timestampString = "537757468.682359"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MemeMe_1_0.MemeCollectionViewController"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewController.swift"
+                  timestampString = "537757468.68637"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MemeMe_1_0.MemeCollectionViewController"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewController.swift"
+                  timestampString = "537757468.689381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MemeMe_1_0.MemeCollectionViewController&gt;"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewController.swift"
+                  timestampString = "537757468.693441"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe_1_0.MemeCollectionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MemeMe_1_0.MemeCollectionViewController&gt;"
+                  moduleName = "MemeMe 1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deenatenzer/Documents/Nanodegree/MemeMe%201.0/MemeMe%201.0/MemeCollectionViewController.swift"
+                  timestampString = "537757468.697136"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
